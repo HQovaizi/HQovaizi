@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 As a technical developer consultant, I aim to better elevate the abilities and quality of the strategies and architecture for business clients.
+- 🔭 As a technical developer consultant, I aim to elevate the abilities and quality of the strategies and architecture for business clients.
 
 - 🌱 I'm actively working towards establishing a higher degree of proficiency with the powerful & comprehensive Spring Framework in support of Java Applications.
 
